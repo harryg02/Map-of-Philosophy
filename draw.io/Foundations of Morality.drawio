@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1621" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3474" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -142,7 +142,7 @@
             <mxPoint x="340" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-29" value="This higher power is The Necessary Being.&amp;nbsp;Morality flows from Necessary being&#39;s nature necessarily" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-29" value="This higher power is The Necessary Being.&amp;nbsp;Morality flows from Necessary being&#39;s nature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="960" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-30" value="Why should I follow the higher power" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -167,7 +167,7 @@
           <mxGeometry x="570" y="10" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-36" value="&lt;div&gt;If the Necessary being is good then&lt;/div&gt;Why there is evil, where does the evil come from&lt;div&gt;(The problem of evil)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1600" width="120" height="110" as="geometry" />
+          <mxGeometry x="280" y="1800" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-33" target="PPzZ9EKausJ6tj47_pqB-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
