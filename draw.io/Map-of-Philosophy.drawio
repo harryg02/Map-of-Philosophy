@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2410" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2536" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -152,10 +152,10 @@
             <mxPoint x="400" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-33" value="&lt;b&gt;The Necessary Being&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- By its own nature and definition:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Must be ONE:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Multiple would mean differences&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Differences mean contingency&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Must be unified&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Self-explaining without brute fact, circular reasoning, or infinite regress.&amp;nbsp; &quot;The necessary being is necessary&quot;, follows axiom, is the same as &quot;The red apple is red&quot;, and A = A&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Can stop infinite regress fallacy without being brute fact&amp;nbsp;or circular reasoning.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The grounding of truth, values, and morality, without&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;logical fallacies:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Brute Fact&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Infinite Regress fallacy&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Circular Reasoning.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-33" value="&lt;b&gt;The Necessary Being&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="1170" width="440" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-29" target="PPzZ9EKausJ6tj47_pqB-33" edge="1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-29" target="ZLIjozgTDZ2RWZ3KY44F-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="960" as="sourcePoint" />
             <mxPoint x="480" y="910" as="targetPoint" />
@@ -165,12 +165,12 @@
           <mxGeometry x="613" y="3" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-36" value="&lt;div&gt;If the Necessary being is good then&lt;/div&gt;Why there is evil, where does the evil come from&lt;div&gt;(The problem of evil)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="305" y="2000" width="120" height="110" as="geometry" />
+          <mxGeometry x="450" y="1570" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-33" target="PPzZ9EKausJ6tj47_pqB-36" edge="1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-1" target="ZLIjozgTDZ2RWZ3KY44F-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="1550" as="sourcePoint" />
-            <mxPoint x="400" y="1500" as="targetPoint" />
+            <mxPoint x="210" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-24" target="PPzZ9EKausJ6tj47_pqB-41" edge="1">
@@ -269,7 +269,7 @@
         <mxCell id="PPzZ9EKausJ6tj47_pqB-63" value="because The higher power makes us to follow it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="970" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-63" edge="1" target="U7u54B4pJAySY7Ac1LAJ-14">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-63" target="U7u54B4pJAySY7Ac1LAJ-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="1040" as="sourcePoint" />
             <mxPoint x="660" y="1070" as="targetPoint" />
@@ -290,14 +290,14 @@
         <mxCell id="PPzZ9EKausJ6tj47_pqB-68" value="Best morality makes people happy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-740" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-33" target="PPzZ9EKausJ6tj47_pqB-70" edge="1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-0" target="PPzZ9EKausJ6tj47_pqB-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="1310" as="sourcePoint" />
             <mxPoint x="420" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-70" value="Why prefer Good not prefer Evil?&amp;nbsp;&lt;br&gt;For example, why preventing rape but not encouraging rape?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="580" y="1260" width="120" height="101" as="geometry" />
+          <mxGeometry x="600" y="1260" width="120" height="101" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-70" target="PPzZ9EKausJ6tj47_pqB-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -306,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-73" value="Evil is a deprivation of Good&lt;br&gt;&lt;ul depth=&quot;0&quot; class=&quot;-mt-1 list-disc space-y-2 pl-8&quot;&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Evil = privation/lack&lt;/li&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Lack = contingent&lt;/li&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Contingent ≠ necessary&lt;/li&gt;&lt;/ul&gt;&lt;ul depth=&quot;0&quot; class=&quot;-mt-1 list-disc space-y-2 pl-8&quot;&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Apply to Rape:&lt;/li&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Rape involves:&lt;/li&gt;&lt;/ul&gt;&lt;ul depth=&quot;0&quot; class=&quot;-mt-1 list-disc space-y-2 pl-8&quot;&gt;&lt;ul&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Violation (lack of respect)&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Harm (lack of wellbeing)&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Destruction (lack of wholeness)&lt;br&gt;= All forms of privation/lack&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="1450" width="270" height="240" as="geometry" />
+          <mxGeometry x="630" y="1470" width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-46" target="PPzZ9EKausJ6tj47_pqB-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -374,49 +374,49 @@
         <mxCell id="P64QPKIvVIQDgWqysjwf-14" value="Therefore the necessary being prefers good by necessity. If it prefers bad then it is contingent not necessary.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="715" y="1890" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="PPzZ9EKausJ6tj47_pqB-68">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="PPzZ9EKausJ6tj47_pqB-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="810" as="sourcePoint" />
             <mxPoint x="-220" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-75" target="U7u54B4pJAySY7Ac1LAJ-2">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-75" target="U7u54B4pJAySY7Ac1LAJ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="940" as="sourcePoint" />
             <mxPoint x="-100" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-2" value="Because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-2" value="Because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-2" target="U7u54B4pJAySY7Ac1LAJ-4">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-2" target="U7u54B4pJAySY7Ac1LAJ-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="1050" as="sourcePoint" />
             <mxPoint x="-150" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-4" value="Why follow it because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-4" value="Why follow it because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-220" y="1190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-4" target="U7u54B4pJAySY7Ac1LAJ-6">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-4" target="U7u54B4pJAySY7Ac1LAJ-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="1160" as="sourcePoint" />
             <mxPoint x="-170" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-6" value="Because following Evolution/human Nature made us successful" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-6" value="Because following Evolution/human Nature made us successful" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-240" y="1340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-6" target="U7u54B4pJAySY7Ac1LAJ-47">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-6" target="U7u54B4pJAySY7Ac1LAJ-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="1280" as="sourcePoint" />
             <mxPoint x="-190" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-8" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-8" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-340" y="1890" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-8" target="U7u54B4pJAySY7Ac1LAJ-2">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-8" target="U7u54B4pJAySY7Ac1LAJ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-230" y="1730" as="sourcePoint" />
             <mxPoint x="-320" y="1060" as="targetPoint" />
@@ -427,124 +427,115 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-4" target="U7u54B4pJAySY7Ac1LAJ-11">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-4" target="U7u54B4pJAySY7Ac1LAJ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="1430" as="sourcePoint" />
             <mxPoint x="-60" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-11" value="&lt;font color=&quot;#000000&quot;&gt;No Explanation needed, it is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-11" value="&lt;font color=&quot;#000000&quot;&gt;No Explanation needed, it is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-110" y="1340" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-12" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-12" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="1480" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-11" target="U7u54B4pJAySY7Ac1LAJ-12">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-11" target="U7u54B4pJAySY7Ac1LAJ-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="1440" as="sourcePoint" />
             <mxPoint x="50" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-14" value="Why follow it because The higher power makes us to follow it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="1110" width="120" height="70" as="geometry" />
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-14" value="Why follow it because The higher power makes us to follow it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="1110" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-15" value="because The higher power makes us to follow it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-15" value="because The higher power makes us to follow it" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="1260" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-14" target="U7u54B4pJAySY7Ac1LAJ-15">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-14" target="U7u54B4pJAySY7Ac1LAJ-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="1050" as="sourcePoint" />
             <mxPoint x="690" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-15" target="PPzZ9EKausJ6tj47_pqB-65">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-15" target="PPzZ9EKausJ6tj47_pqB-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="1190" as="sourcePoint" />
             <mxPoint x="830" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-33" target="U7u54B4pJAySY7Ac1LAJ-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="1590" as="sourcePoint" />
-            <mxPoint x="160" y="1700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-20" value="Why must be one" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1754" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-21" value="Any contigent being (X) rather than the necessary being" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-21" value="Any contigent being (X) rather than the necessary being" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1120" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="U7u54B4pJAySY7Ac1LAJ-21">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="U7u54B4pJAySY7Ac1LAJ-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-450" y="870" as="sourcePoint" />
             <mxPoint x="-420" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-50" target="U7u54B4pJAySY7Ac1LAJ-24">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-50" target="U7u54B4pJAySY7Ac1LAJ-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-430" y="650" as="sourcePoint" />
             <mxPoint x="-410" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-24" value="Then genocide is just bad for me not for others" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-24" value="Then genocide is just bad for me not for others" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-580" y="570" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-26" value="Then why should I stop genocide?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-26" value="Then why should I stop genocide?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-770" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-24" target="U7u54B4pJAySY7Ac1LAJ-26">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-24" target="U7u54B4pJAySY7Ac1LAJ-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="650" as="sourcePoint" />
             <mxPoint x="-450" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="U7u54B4pJAySY7Ac1LAJ-30" source="PPzZ9EKausJ6tj47_pqB-47">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-47" target="U7u54B4pJAySY7Ac1LAJ-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-530" y="910" as="sourcePoint" />
             <mxPoint x="-550" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-30" value="Why follow Reason" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-30" value="Why follow Reason" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-30" target="U7u54B4pJAySY7Ac1LAJ-32">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-30" target="U7u54B4pJAySY7Ac1LAJ-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="1020" as="sourcePoint" />
             <mxPoint x="-540" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-32" value="Because our reason shows us what is right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-32" value="Because our reason shows us what is right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-473" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-32" target="U7u54B4pJAySY7Ac1LAJ-34">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-32" target="U7u54B4pJAySY7Ac1LAJ-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-400" y="1130" as="sourcePoint" />
             <mxPoint x="-590" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-34" value="Why follow our reason because Because &quot;our reason shows us what is right&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-34" value="Why follow our reason because Because &quot;our reason shows us what is right&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-490" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-34" target="U7u54B4pJAySY7Ac1LAJ-36">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-34" target="U7u54B4pJAySY7Ac1LAJ-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="1240" as="sourcePoint" />
             <mxPoint x="-610" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-36" value="Because it&#39;s rational" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-36" value="Because it&#39;s rational" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-630" y="1370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-36" target="U7u54B4pJAySY7Ac1LAJ-55">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-36" target="U7u54B4pJAySY7Ac1LAJ-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-590" y="1360" as="sourcePoint" />
             <mxPoint x="-600" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-38" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-38" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-710" y="1714" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-38" target="U7u54B4pJAySY7Ac1LAJ-32">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-38" target="U7u54B4pJAySY7Ac1LAJ-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-430" y="1540" as="sourcePoint" />
             <mxPoint x="-760" y="1140" as="targetPoint" />
@@ -555,148 +546,148 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-34" target="U7u54B4pJAySY7Ac1LAJ-41">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-34" target="U7u54B4pJAySY7Ac1LAJ-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-450" y="1510" as="sourcePoint" />
             <mxPoint x="-500" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-41" value="&lt;font color=&quot;#000000&quot;&gt;No Explanation needed, it is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-41" value="&lt;font color=&quot;#000000&quot;&gt;No Explanation needed, it is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-490" y="1400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-42" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-42" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-520" y="1530" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-41" target="U7u54B4pJAySY7Ac1LAJ-42">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-41" target="U7u54B4pJAySY7Ac1LAJ-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-440" y="1520" as="sourcePoint" />
             <mxPoint x="-390" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="PPzZ9EKausJ6tj47_pqB-20">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-51" target="PPzZ9EKausJ6tj47_pqB-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="760" as="sourcePoint" />
             <mxPoint x="250" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-47" value="Why follow success" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-47" value="Why follow success" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-270" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-48" value="Because it helps survival" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-48" value="Because it helps survival" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-290" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-47" target="U7u54B4pJAySY7Ac1LAJ-48">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-47" target="U7u54B4pJAySY7Ac1LAJ-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="1500" as="sourcePoint" />
             <mxPoint x="-110" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-50" value="Why follow survival?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-50" value="Why follow survival?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-51" value="Because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-51" value="Because Evolution/human Nature made us to think this way&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-310" y="1760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-48" target="U7u54B4pJAySY7Ac1LAJ-50">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-48" target="U7u54B4pJAySY7Ac1LAJ-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1800" as="sourcePoint" />
             <mxPoint x="-90" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-50" target="U7u54B4pJAySY7Ac1LAJ-51">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-50" target="U7u54B4pJAySY7Ac1LAJ-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1800" as="sourcePoint" />
             <mxPoint x="-90" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-51" target="U7u54B4pJAySY7Ac1LAJ-8">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-51" target="U7u54B4pJAySY7Ac1LAJ-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1800" as="sourcePoint" />
             <mxPoint x="-90" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-55" value="Why follow what&#39;s rational?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-55" value="Why follow what&#39;s rational?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-660" y="1480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-56" value="Because our reason shows us what is right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-56" value="Because our reason shows us what is right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-670" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-55" target="U7u54B4pJAySY7Ac1LAJ-56">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-55" target="U7u54B4pJAySY7Ac1LAJ-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="1610" as="sourcePoint" />
             <mxPoint x="-450" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-56" target="U7u54B4pJAySY7Ac1LAJ-38">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-56" target="U7u54B4pJAySY7Ac1LAJ-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="1610" as="sourcePoint" />
             <mxPoint x="-450" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-21" target="U7u54B4pJAySY7Ac1LAJ-60">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-21" target="U7u54B4pJAySY7Ac1LAJ-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-900" y="920" as="sourcePoint" />
             <mxPoint x="-1090" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-60" value="Why follow X&#39;s morality" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-60" value="Why follow X&#39;s morality" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1150" y="885" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-61" value="Because X says so" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-61" value="Because X says so" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1160" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-60" target="U7u54B4pJAySY7Ac1LAJ-61">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-60" target="U7u54B4pJAySY7Ac1LAJ-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-890" y="960" as="sourcePoint" />
             <mxPoint x="-840" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-63" value="Why follow what X says" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-63" value="Why follow what X says" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1180" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-61" target="U7u54B4pJAySY7Ac1LAJ-63">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-61" target="U7u54B4pJAySY7Ac1LAJ-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-890" y="960" as="sourcePoint" />
             <mxPoint x="-840" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-65" value="Because X is good/wise/powerful" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-65" value="Because X is good/wise/powerful" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1200" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-63" target="U7u54B4pJAySY7Ac1LAJ-65">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-63" target="U7u54B4pJAySY7Ac1LAJ-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-910" y="1270" as="sourcePoint" />
             <mxPoint x="-860" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-65" target="U7u54B4pJAySY7Ac1LAJ-68">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-65" target="U7u54B4pJAySY7Ac1LAJ-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1000" y="1100" as="sourcePoint" />
             <mxPoint x="-1160" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-68" value="Why trust X&#39;s goodness/wisdom/power" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-68" value="Why trust X&#39;s goodness/wisdom/power" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1230" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-69" value="Because X says so" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-69" value="Because X says so" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1260" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-68" target="U7u54B4pJAySY7Ac1LAJ-69">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-68" target="U7u54B4pJAySY7Ac1LAJ-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1070" y="1400" as="sourcePoint" />
             <mxPoint x="-1020" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-73" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-73" value="Circular Reasoning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1330" y="1570" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="U7u54B4pJAySY7Ac1LAJ-73" source="U7u54B4pJAySY7Ac1LAJ-69">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-69" target="U7u54B4pJAySY7Ac1LAJ-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1210" y="1520" as="sourcePoint" />
             <mxPoint x="-1050" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-73" target="U7u54B4pJAySY7Ac1LAJ-61">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-73" target="U7u54B4pJAySY7Ac1LAJ-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-970" y="1480" as="sourcePoint" />
             <mxPoint x="-1270" y="1200" as="targetPoint" />
@@ -707,50 +698,80 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="U7u54B4pJAySY7Ac1LAJ-77" source="U7u54B4pJAySY7Ac1LAJ-68">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-68" target="U7u54B4pJAySY7Ac1LAJ-77" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1065" y="1330" as="sourcePoint" />
             <mxPoint x="-1135" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-77" value="&lt;font color=&quot;#000000&quot;&gt;It is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-77" value="&lt;font color=&quot;#000000&quot;&gt;It is what it is&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1125" y="1450" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-78" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-78" value="Brute fact&lt;div&gt;Does it follow any (Logical/metaphysical/mathmatical) necessity? No. Could be other wise. (Contingent)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1155" y="1580" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-77" target="U7u54B4pJAySY7Ac1LAJ-78">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-77" target="U7u54B4pJAySY7Ac1LAJ-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1075" y="1570" as="sourcePoint" />
             <mxPoint x="-1025" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-33" target="U7u54B4pJAySY7Ac1LAJ-81">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-3" target="U7u54B4pJAySY7Ac1LAJ-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1860" as="sourcePoint" />
-            <mxPoint y="1740" as="targetPoint" />
+            <mxPoint x="-10" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-81" value="Why this hypothetical Necessary being exists?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="1740" width="120" height="80" as="geometry" />
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-83" value="If this hypothetical Necessary being does not exist" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-80" y="1754" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-81" target="U7u54B4pJAySY7Ac1LAJ-83">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1700" as="sourcePoint" />
-            <mxPoint x="-40" y="1900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-83" value="This hypothetical Necessary being does not exist" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="1870" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-83" target="U7u54B4pJAySY7Ac1LAJ-85">
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-83" target="U7u54B4pJAySY7Ac1LAJ-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1880" as="sourcePoint" />
             <mxPoint x="-50" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7u54B4pJAySY7Ac1LAJ-85" value="Infinite Regress fallacy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="2030" width="160" height="80" as="geometry" />
+        <mxCell id="U7u54B4pJAySY7Ac1LAJ-85" value="&lt;div&gt;Cannot stop infinite regress&lt;/div&gt;Infinite Regress fallacy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-200" y="1960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-0" value="The Necessary being is the origin of morality" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1195" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-1" value="Why must be one" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-3" value="Why must exist" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="1210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U7u54B4pJAySY7Ac1LAJ-83" target="ZLIjozgTDZ2RWZ3KY44F-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="2010" as="sourcePoint" />
+            <mxPoint x="50" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-5" value="Brute Fact, just assertion not explanation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;fontColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="2040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-7" value="Why must be perfect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1420" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-8" value="Why must be perfect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="1310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1550" as="sourcePoint" />
+            <mxPoint x="370" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-10" value="&lt;div&gt;if there are two or multiple necessary beings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1555" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1530" as="sourcePoint" />
+            <mxPoint x="150" y="1690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
