@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2490" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3923" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-33" value="&lt;b&gt;The Necessary Being&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="1170" width="480" height="350" as="geometry" />
+          <mxGeometry x="130" y="1170" width="520" height="350" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-29" target="ZLIjozgTDZ2RWZ3KY44F-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -714,7 +714,7 @@
           <mxGeometry x="-380" y="2040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-0" value="The Necessary being is the origin of morality" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="414" y="1195" width="120" height="90" as="geometry" />
+          <mxGeometry x="500" y="1175" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-1" value="Why must be one" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1325" width="120" height="90" as="geometry" />
@@ -732,7 +732,7 @@
           <mxGeometry x="-210" y="2050" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-7" value="Why must be perfect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="305" y="1400" width="120" height="90" as="geometry" />
+          <mxGeometry x="305" y="1380" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-7" target="ZLIjozgTDZ2RWZ3KY44F-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -759,7 +759,7 @@
           <mxGeometry x="994" y="250" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-15" value="&lt;div&gt;If imperfect then needs an explanation. E.G. two imperfect circles does not necessary equal to each other.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="1570" width="120" height="100" as="geometry" />
+          <mxGeometry x="270" y="1570" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-16" value="&lt;div&gt;If there are no distinctions between the necessary beings&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="1709" width="120" height="85" as="geometry" />
@@ -800,13 +800,10 @@
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-25" value="&lt;div&gt;If I say there are two circles, but shares same properties:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- exact same size,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- same color,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- same location,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- and same time,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- and made of the same fundamental particles&lt;/div&gt;&lt;div&gt;Are there two circles or just one circle&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-5" y="1990" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-26" value="&lt;div&gt;If imperfect then needs an explanation.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="1744" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-15" target="ZLIjozgTDZ2RWZ3KY44F-26" edge="1">
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="1630" as="sourcePoint" />
-            <mxPoint x="400" y="1580" as="targetPoint" />
+            <mxPoint x="340" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-29" value="&lt;div&gt;- One&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -848,14 +845,14 @@
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-37" value="Because X is (A positive word)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1220" y="1219" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-29" target="ZLIjozgTDZ2RWZ3KY44F-7" edge="1">
+        <mxCell id="ZLIjozgTDZ2RWZ3KY44F-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-29" target="s2_qUH5CAMqh0VFbLsRy-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="1290" as="sourcePoint" />
-            <mxPoint x="410" y="1240" as="targetPoint" />
+            <mxPoint x="350" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-39" value="does it mean the Necessary Being is personal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="1310" width="120" height="90" as="geometry" />
+          <mxGeometry x="510" y="1280" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZLIjozgTDZ2RWZ3KY44F-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-0" target="ZLIjozgTDZ2RWZ3KY44F-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -875,14 +872,14 @@
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-4" value="&lt;div&gt;Is impersonal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="1460" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s2_qUH5CAMqh0VFbLsRy-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-39" target="s2_qUH5CAMqh0VFbLsRy-6">
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-39" target="s2_qUH5CAMqh0VFbLsRy-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1480" as="sourcePoint" />
             <mxPoint x="520" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-6" value="Is personal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="1396" width="120" height="90" as="geometry" />
+          <mxGeometry x="490" y="1405" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-4" target="s2_qUH5CAMqh0VFbLsRy-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -906,7 +903,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-11" value="&lt;div&gt;If perfect and personal, does it mean:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1600" width="120" height="70" as="geometry" />
+          <mxGeometry x="529" y="1600" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-11" target="s2_qUH5CAMqh0VFbLsRy-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -915,10 +912,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-13" value="&lt;div&gt;Must Love Everyone?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1867.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="510" y="1867.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-14" value="&lt;div&gt;Must Have perfect plan for everyone?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="1852" width="120" height="70" as="geometry" />
+          <mxGeometry x="660" y="1852" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-11" target="s2_qUH5CAMqh0VFbLsRy-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -967,21 +964,48 @@
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-13" target="s2_qUH5CAMqh0VFbLsRy-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1850" as="sourcePoint" />
-            <mxPoint x="450" y="1980" as="targetPoint" />
+            <mxPoint x="500" y="1850" as="sourcePoint" />
+            <mxPoint x="560" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-29" value="&lt;div&gt;If lack love to someone, then this love is contingent, then this is not necessary being&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1980" width="120" height="90" as="geometry" />
+          <mxGeometry x="510" y="1980" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-29" target="s2_qUH5CAMqh0VFbLsRy-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="2070" as="sourcePoint" />
-            <mxPoint x="430" y="2100" as="targetPoint" />
+            <mxPoint x="500" y="2070" as="sourcePoint" />
+            <mxPoint x="540" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-31" value="&lt;div&gt;Continency needs explanation, either root again in the necessary being, or circular reasoning or brute fact&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="2120" width="120" height="90" as="geometry" />
+          <mxGeometry x="510" y="2120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-33" value="What does perfect mean?&amp;nbsp;&lt;div&gt;- Means perfect in everything possible,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Every attributes possible&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="1190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-33" target="ZLIjozgTDZ2RWZ3KY44F-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1370" as="sourcePoint" />
+            <mxPoint x="270" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-35" value="&lt;div&gt;Perfection = Perfection, Perfection cannot be imperfection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1585" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-7" target="s2_qUH5CAMqh0VFbLsRy-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1540" as="sourcePoint" />
+            <mxPoint x="360" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-35" target="s2_qUH5CAMqh0VFbLsRy-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1710" as="sourcePoint" />
+            <mxPoint x="440" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-38" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 51); text-align: left;&quot;&gt;Perfection = Perfection&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 102, 51); text-align: left;&quot;&gt;is a Logical Necessity:&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;color: rgb(0, 102, 51); text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;similar to A = A&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1720" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
