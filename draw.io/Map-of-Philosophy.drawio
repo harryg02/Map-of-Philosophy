@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2221" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -953,7 +953,7 @@
             <mxPoint x="920" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2_qUH5CAMqh0VFbLsRy-24" value="Impersonal→personal:&lt;div&gt;~Personal&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;→personal&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Different category&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="s2_qUH5CAMqh0VFbLsRy-24" value="&lt;div&gt;~Personal (Impersonal)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;→personal&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Different category&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="2032.5" width="163" height="95" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-24" target="s2_qUH5CAMqh0VFbLsRy-26">
