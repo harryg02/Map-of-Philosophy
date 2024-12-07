@@ -25,7 +25,7 @@ We carefully identify and avoid:
 - Equivocation (switching meanings of terms)
 
 ### Precise Terminology
-We use precise philosophical terms rather than loaded cultural or religious language. For example, we refer to the "Necessary Being" rather than culturally-specific terms, focusing on logical necessity rather than traditional claims.
+We use precise philosophical terms rather than loaded cultural or religious language. For example, we refer to the "Necessary Being" rather than culturally-specific terms (Such as "God"), focusing on logical necessity rather than traditional claims.
 
 ## Fundamental Axioms
 
