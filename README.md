@@ -12,10 +12,10 @@ This repository contains a philosophical map that traces arguments to their logi
 All arguments must follow necessary logical connections. We avoid appeals to intuition or feeling, focusing instead on what can be demonstrated through pure reason.
 
 ### Principle of Sufficient Reason
-Everything that exists must have a sufficient explanation for why it exists and why it has the properties it does. We reject arbitrary stopping points or "brute facts" that lack explanation.
+Everything that exists must have a sufficient explanation for why it exists and why it has the properties it does. We reject arbitrary stopping points or "brute facts" that lack explanation. The scientific method itself depends on this principle. 
 
 ### Principle of Causality 
-Every effect must have a cause that is sufficient to explain it. The scientific method itself depends on this principle, and we apply it consistently across all domains of inquiry.
+Every effect must have a cause that is sufficient to explain it. Again, the scientific method itself depends on this principle, and we apply it consistently across all domains of inquiry.
 
 ### Avoiding Fallacies
 We carefully identify and avoid:
