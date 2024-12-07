@@ -6,6 +6,27 @@ A systematic exploration of philosophical arguments using strict logical analysi
 
 This repository contains a philosophical map that traces arguments to their logical foundations, following strict principles of reason while avoiding common fallacies. The goal is to analyze philosophical questions with the same rigor that we apply to mathematics and science.
 
+## Methodological Principles
+
+### Strict Logic
+All arguments must follow necessary logical connections. We avoid appeals to intuition or feeling, focusing instead on what can be demonstrated through pure reason.
+
+### Principle of Sufficient Reason
+Everything that exists must have a sufficient explanation for why it exists and why it has the properties it does. We reject arbitrary stopping points or "brute facts" that lack explanation.
+
+### Principle of Causality 
+Every effect must have a cause that is sufficient to explain it. The scientific method itself depends on this principle, and we apply it consistently across all domains of inquiry.
+
+### Avoiding Fallacies
+We carefully identify and avoid:
+- Circular reasoning (using what we're trying to prove)
+- Infinite regress (endless chain of explanations)
+- Category errors (confusing different types of things)
+- Equivocation (switching meanings of terms)
+
+### Precise Terminology
+We use precise philosophical terms rather than loaded cultural or religious language. For example, we refer to the "Necessary Being" rather than culturally-specific terms, focusing on logical necessity rather than traditional claims.
+
 ## Fundamental Axioms
 
 The map recognizes four types of self-evident, necessary truths that serve as axioms:
@@ -33,27 +54,6 @@ Necessary truths based on the meaning of terms, such as:
 - A bachelor is unmarried
 - A red apple is red
 - A part is less than the whole
-
-## Methodological Principles
-
-### Strict Logic
-All arguments must follow necessary logical connections. We avoid appeals to intuition or feeling, focusing instead on what can be demonstrated through pure reason.
-
-### Principle of Sufficient Reason
-Everything that exists must have a sufficient explanation for why it exists and why it has the properties it does. We reject arbitrary stopping points or "brute facts" that lack explanation.
-
-### Principle of Causality 
-Every effect must have a cause that is sufficient to explain it. The scientific method itself depends on this principle, and we apply it consistently across all domains of inquiry.
-
-### Avoiding Fallacies
-We carefully identify and avoid:
-- Circular reasoning (using what we're trying to prove)
-- Infinite regress (endless chain of explanations)
-- Category errors (confusing different types of things)
-- Equivocation (switching meanings of terms)
-
-### Precise Terminology
-We use precise philosophical terms rather than loaded cultural or religious language. For example, we refer to the "Necessary Being" rather than culturally-specific terms, focusing on logical necessity rather than traditional claims.
 
 ## Structure
 
