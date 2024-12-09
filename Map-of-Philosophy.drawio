@@ -284,7 +284,7 @@
             <mxPoint x="790" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPzZ9EKausJ6tj47_pqB-65" value="&lt;font color=&quot;#ff4747&quot;&gt;Circular Reasoning&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="PPzZ9EKausJ6tj47_pqB-65" value="&lt;font&gt;Circular Reasoning&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;fontColor=#FF0B03;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1096" y="1410" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PPzZ9EKausJ6tj47_pqB-68" value="Best morality makes people happy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
