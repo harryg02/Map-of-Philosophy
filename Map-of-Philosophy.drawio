@@ -1564,7 +1564,7 @@
             <mxPoint x="980" y="3180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZ8tSHgJwj6Prh8r6LI0-130" value="&lt;div&gt;If NB&#39;s way contigent, then NB lacks,&amp;nbsp;&lt;/div&gt;&lt;div&gt;If NB lacks then&amp;nbsp;&lt;br&gt;contigent&lt;/div&gt;&lt;div&gt;Contigent then not NB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cZ8tSHgJwj6Prh8r6LI0-130" value="&lt;div&gt;Then NB&#39;s way must be perfect&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="2940" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
