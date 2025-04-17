@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="25.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4884" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3522" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -885,7 +885,7 @@
           <mxGeometry x="510" y="1867.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-14" value="&lt;div&gt;Must Have perfect plan for everyone?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="1860" width="120" height="70" as="geometry" />
+          <mxGeometry x="671.5" y="1875" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s2_qUH5CAMqh0VFbLsRy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s2_qUH5CAMqh0VFbLsRy-11" target="s2_qUH5CAMqh0VFbLsRy-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1035,7 +1035,7 @@
         <mxCell id="cG6doWg8dao8OEFPGujO-11" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Brute Fact&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1000" y="625" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cG6doWg8dao8OEFPGujO-13" value="Evil is like a Parasite,&amp;nbsp;&lt;div&gt;it must depend on something in order to thrive.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For example, A bank robber robs bank, the action is evil, but what they pursue is financial security, which is a good thing&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="cG6doWg8dao8OEFPGujO-13" value="Evil is like a Parasite, resulting from continent actions from contingent beings. &lt;br&gt;&lt;div&gt;it must depend on something in order to thrive.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For example, A bank robber robs bank, the action is evil, but what they pursue is financial security, which is a good thing&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1126" y="1530" width="204" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cG6doWg8dao8OEFPGujO-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZLIjozgTDZ2RWZ3KY44F-7" target="cG6doWg8dao8OEFPGujO-16" edge="1">
@@ -1555,6 +1555,18 @@
         </mxCell>
         <mxCell id="cZ8tSHgJwj6Prh8r6LI0-138" value="&lt;div&gt;&lt;font color=&quot;#ff1303&quot;&gt;Then Not Necessary being&#39;s way, self contradictory&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="3400" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BBhLakU1RAYCCPR_utLZ-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPzZ9EKausJ6tj47_pqB-70" target="BBhLakU1RAYCCPR_utLZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1530" as="sourcePoint" />
+            <mxPoint x="1520" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBhLakU1RAYCCPR_utLZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1460" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BBhLakU1RAYCCPR_utLZ-3" value="dualistic cosmology, " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="1470" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
