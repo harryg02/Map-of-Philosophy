@@ -6,21 +6,6 @@ A systematic exploration of philosophical arguments using a rigorous testing met
 
 This repository contains a philosophical map that traces arguments to their logical foundations, following strict principles of reason while avoiding common fallacies. The goal is to analyze philosophical questions with the same rigor and systematic approach that we apply to mathematics and the natural sciences.
 
-## A Rigorous Testing Method
-
-Our approach mimics the disciplined structure of the scientific method to ensure objectivity and guard against confirmation bias. We don't start with a conclusion and seek proof; we start with a skeptical baseline (the Null Hypothesis) and test competing explanations against reason and evidence.
-
-| **Scientific Method**             | **Our Philosophical Method**                                                                                                   |
-| :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| **Observation of Phenomena**      | **Observation of Phenomena** (e.g., existence, consciousness, moral values, logical truths)                                      |
-| **Underlying Axioms**             | **Underlying Axioms** (e.g., causality, logical consistency, PSR, the Four Necessities)                                          |
-| **Formulate a Hypothesis**        | **Formulate a Hypothesis** (e.g., "A personal, perfect Necessary Being is the ground of reality.")                             |
-| **Start with a Null Hypothesis (H₀)** | **Start with a Null Hypothesis (H₀)** (e.g., "The Necessary Being does not exist," or "NB is not personal.")                        |
-| **Test the Hypothesis**           | **Test the Hypothesis** (Apply logical analysis, check for internal contradictions, evaluate historical evidence.)               |
-| **Analyze the Results**           | **Analyze the Results** (Check for logical fallacies, assess explanatory coherence and parsimony.)                               |
-| **Draw a Conclusion**             | **Draw a Conclusion** (Reject or fail to reject H₀ based on the analysis.)                                                         |
-| **Peer Review**                   | **Transparent Argumentation** (Lay out all premises, axioms, and logical steps for public critique.)                             |
-
 ## Methodological Principles
 
 ### Strict Logic
@@ -69,6 +54,22 @@ Necessary truths based on the meaning of terms, such as:
 - A bachelor is unmarried.
 - A red apple is red.
 - A part is less than the whole.
+
+## A Rigorous Testing Method
+
+Our approach mimics the disciplined structure of the scientific method to ensure objectivity and guard against confirmation bias. We don't start with a conclusion and seek proof; we start with a skeptical baseline (the Null Hypothesis) and test competing explanations against reason and evidence.
+
+| **Scientific Method**             | **Our Philosophical Method**                                                                                                   |
+| :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Observation of Phenomena**      | **Observation of Phenomena** (e.g., existence, consciousness, moral values, logical truths)                                      |
+| **Underlying Axioms**             | **Underlying Axioms** (e.g., causality, logical consistency, PSR, the Four Necessities)                                          |
+| **Formulate a Hypothesis**        | **Formulate a Hypothesis** (e.g., "A personal, perfect Necessary Being is the ground of reality.")                             |
+| **Start with a Null Hypothesis (H₀)** | **Start with a Null Hypothesis (H₀)** (e.g., "The Necessary Being does not exist," or "NB is not personal.")                        |
+| **Test the Hypothesis**           | **Test the Hypothesis** (Apply logical analysis, check for internal contradictions, evaluate historical evidence.)               |
+| **Analyze the Results**           | **Analyze the Results** (Check for logical fallacies, assess explanatory coherence and parsimony.)                               |
+| **Draw a Conclusion**             | **Draw a Conclusion** (Reject or fail to reject H₀ based on the analysis.)                                                         |
+| **Peer Review**                   | **Transparent Argumentation** (Lay out all premises, axioms, and logical steps for public critique.)                             |
+
 
 ## Contribution Guidelines
 
